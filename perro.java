@@ -11,7 +11,7 @@ public class perro{
         if(tamañoraza == "grande")
             System.out.print("Se que los gatos son mejores");
         if(tamañoraza == "pequeño"){
-            System.out.print("Los perros pequeños tambien se llaman ratas");
+            System.out.print("Los perros pequeños tambien se llaman ratas o perropatada");
         //ESTE ES EL CAMBIO EN EL CÓDIGO:
         System.out.print("GUAUU! guau!");
         }
