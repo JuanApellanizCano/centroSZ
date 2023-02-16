@@ -9,9 +9,9 @@ public class perro{
 
     public static void Ladrar(String tamañoraza){
         if(tamañoraza == "grande")
-            System.out.print("Woof! Woof!");
+            System.out.print("Se que los gatos son mejores");
         if(tamañoraza == "pequeño")
-            System.out.print("Guau!");
+            System.out.print("Los perros pequeños tambien se llaman ratas);
     }
         
 }
