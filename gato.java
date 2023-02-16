@@ -1,9 +1,8 @@
 public class gato{
 
     public static void main(String args[]){
-        System.out.print("Miau miau, no me gustan los perros");
+        System.out.print("Miau, soy un gato");
     }
 }
 
-// EL BARTO
-// Esto es un cambio
+
