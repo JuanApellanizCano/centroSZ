@@ -13,7 +13,7 @@ public class perro{
         if(tamañoraza == "pequeño"){
             System.out.print("Los perros pequeños tambien se llaman ratas");
         //ESTE ES EL CAMBIO EN EL CÓDIGO:
-        System.out.print("Guau! Guau!");
+        System.out.print("GUAUU! guau!");
         }
     }
         
